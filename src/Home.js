@@ -1,9 +1,14 @@
 import React from "react";
+import Destination from "./Destination";
+import Hero from "./Hero";
+import Services from "./Services";
 
 function Home(){
     return(
         <div>
-        <h1>Home Component</h1>
+        <Hero/>
+        <Services/>
+        <Destination/>
         </div>
     )
 }

@@ -1,0 +1,60 @@
+.destination{
+position: absolute;
+width: 1102px;
+height: 617px;
+left: 173px;
+top: 1308px;
+
+}
+.dest-head{
+    position: absolute;
+    width: 99px;
+    height: 27px;
+    left: 523px;
+    top: -3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #5E6282;
+}
+
+.dest-text{
+ position: absolute;
+    width: 547px;
+    height: 65px;
+    left: 376px;
+    top: -5px;
+    font-family: Volkhov;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 64px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #14183E;
+
+}
+.dest-cont{
+    display: flex;
+    position: relative;
+    top: 163px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+
+.dest-items{
+    width: 311px;
+    height: 250px;
+    left: 125px;
+    top: 195px;
+/* background: url(./images/Rectangle\ 1.png); */
+filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.02)) drop-shadow(0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852)) drop-shadow(0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481)) drop-shadow(0px 20px 13px rgba(0, 0, 0, 0.01)) drop-shadow(0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185)) drop-shadow(0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481));
+border-radius: 24px;
+
+}
